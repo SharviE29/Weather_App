@@ -5,6 +5,7 @@
  3. Some important packages used specifically for this project
  
     1.Geolocator: To get the location of the user.
+   
     2.Http package: To perform network requests.
    
  4. API used : https://openweathermap.org/api  
